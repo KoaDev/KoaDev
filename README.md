@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm **Max**
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding,developer)
-
 ## 🚀 About Me
 
 I'm a **5th-year engineering student** at **ISEN Yncréa Méditerranée Toulon**, specializing in **software development**. Passionate about **full-stack development, backend engineering, and cloud computing**, I enjoy solving complex problems and building scalable applications.
@@ -27,7 +25,7 @@ I'm a **5th-year engineering student** at **ISEN Yncréa Méditerranée Toulon**
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoaDev&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoaDev&layout=compact&count_private=true" alt="Top Languages" />
 
 
 ## 📫 Contact Me
