@@ -27,22 +27,8 @@ I'm a **5th-year engineering student** at **ISEN Yncréa Méditerranée Toulon**
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoaDev&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoaDev&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 
----
-
-## 📂 Featured Projects
-
-### 🚀 [GarageWeekUniversity](https://github.com/KoaDev/GarageWeekUniversity) *(Python)*
-Developed an **AI-powered waste classification system** using **TensorFlow** and **image recognition**, integrated with MQTT communication and a custom **PCB prototype**.
-
-### 🌍 [THS-JAVA-IA-Project](https://github.com/KoaDev/THS-JAVA-IA-Project) *(Java)*
-A **neural network-based system** designed to recognize and interpret specific signals and patterns.
-
-### 💻 [isensmartcompanionMax](https://github.com/KoaDev/isensmartcompanionMax) *(Kotlin)*
-A **smart companion app** built in **Kotlin** for enhanced productivity and automation.
-
----
 
 ## 📫 Contact Me
 
