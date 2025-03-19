@@ -25,7 +25,7 @@ I'm a **5th-year engineering student** at **ISEN Yncréa Méditerranée Toulon**
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoaDev&layout=compact&count_private=true" alt="Top Languages" />
+<img src="https://vercelstatistics.vercel.app/api/top-langs/?username=KoaDev&layout=compact&count_private=true" alt="Top Languages" />
 
 
 ## 📫 Contact Me
