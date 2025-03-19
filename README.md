@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Max**
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
+![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding,developer)
 
 ## 🚀 About Me
 
@@ -23,6 +23,11 @@ I'm a **5th-year engineering student** at **ISEN Yncréa Méditerranée Toulon**
 - **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 - **Cloud & DevOps:** ![Docker](https://img.shields.io/badge/Docker-%230099FF.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23181717.svg?style=flat&logo=githubactions&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoaDev&layout=compact)
 
 ---
 
@@ -43,6 +48,8 @@ A **smart companion app** built in **Kotlin** for enhanced productivity and auto
 
 🚀 Let's collaborate on something amazing! Feel free to reach out:
 
+📧 **Email:** max.champion@isen.yncrea.fr  
+📞 **Phone:** +33 6 52 87 28 84  
 🔗 **GitHub:** [github.com/KoaDev](https://github.com/KoaDev)  
 💼 **LinkedIn:** [linkedin.com/in/max-champion](#) *(Add your LinkedIn if available)*  
 
