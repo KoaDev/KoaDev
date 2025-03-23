@@ -35,7 +35,7 @@ I'm a **5th-year engineering student** at **ISEN Yncréa Méditerranée Toulon**
 📧 **Email:** max.champion@isen.yncrea.fr  
 📞 **Phone:** +33 6 52 87 28 84  
 🔗 **GitHub:** [github.com/KoaDev](https://github.com/KoaDev)  
-💼 **LinkedIn:** [linkedin.com/in/max-champion](#) *(Add your LinkedIn if available)*  
+💼 **LinkedIn:** [linkedin.com/in/max-champion](https://www.linkedin.com/in/max-champion-13319524b/)
 
 ---
 
